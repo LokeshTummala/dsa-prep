@@ -169,3 +169,7 @@ Use arrays when:
 > “If you can recognize patterns in arrays, you can solve most problems efficiently.”
 
 ---
+## Links to the problems: 
+   ## Easy: 
+      1. https://leetcode.com/problems/two-sum/description/
+      2. 
